@@ -1,0 +1,15 @@
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\bin\Debug\AccessoriesShopSystem.exe
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\bin\Debug\AccessoriesShopSystem.pdb
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.csprojResolveAssemblyReference.cache
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.CustomerForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.LoginForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.MainForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.PaymentForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.Properties.Resources.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.SaleForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.StockForm.resources
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.csproj.GenerateResource.Cache
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.exe
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.pdb
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\bin\Debug\AccessoriesShopSystem.exe.config
+E:\Projects\AccessoriesShopSystem\AccessoriesShopSystem\obj\Debug\AccessoriesShopSystem.PurchaseForm.resources
